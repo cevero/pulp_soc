@@ -71,7 +71,7 @@ riscv:
   domain: [cluster, soc]
 ibex:
   commit: e65a27e14dda7bb3b09cadc4e9232305fd451cec
-  group: lowRISC
+  group: cevero
   domain: [soc]
 scm:
   commit: v1.0.1
