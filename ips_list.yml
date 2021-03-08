@@ -73,6 +73,10 @@ ibex:
   commit: e65a27e14dda7bb3b09cadc4e9232305fd451cec
   group: cevero
   domain: [soc]
+ibex:
+  commit: b1b89f55fb1dbbf6f35ac5f92c5c1d12b2f41d45
+  group: cevero
+  domain: [soc]
 scm:
   commit: v1.0.1
   domain: [cluster, soc]
