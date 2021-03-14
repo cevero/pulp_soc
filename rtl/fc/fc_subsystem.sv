@@ -217,7 +217,7 @@ module fc_subsystem #(
     );
     end else begin: FC_CORE
 
-    zeroriscy_core #(
+    cevero_ft_core #(
         .N_EXT_PERF_COUNTERS ( N_EXT_PERF_COUNTERS ),
         .RV32E               ( ZERORISCY_RV32E     ),
         .RV32M               ( ZERORISCY_RV32M     )
