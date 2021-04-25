@@ -50,10 +50,9 @@ jtag_pulp:
   commit: tags/pulpissimo-v1.0
 riscv:
   commit: tags/pulpissimo-v1.0.1
-ibex:
-  commit: b1b89f55fb1dbbf6f35ac5f92c5c1d12b2f41d45
-  group: cevero
-  domain: [soc]
+cevero-ft-core:
+  commit: v1.0.0
+  group:  cevero
 scm:
   commit: tags/pulpissimo-v1.0
 generic_FLL:
