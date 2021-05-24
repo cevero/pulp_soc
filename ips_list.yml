@@ -51,7 +51,7 @@ jtag_pulp:
 riscv:
   commit: tags/pulpissimo-v1.0.1
 cevero-ft-core:
-  commit: v1.0.0
+  commit: v1.0.1
   group:  cevero
 scm:
   commit: tags/pulpissimo-v1.0
